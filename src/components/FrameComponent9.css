@@ -1,0 +1,171 @@
+.limited-time-offer {
+  width: 613px;
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: 448091;
+  max-width: 100%;
+}
+.limited-time-offer-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 767px;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.pngwing-7-icon,
+.vector-icon1 {
+  position: absolute;
+  top: 206px;
+  left: 0;
+  width: 1680px;
+  height: 900.3px;
+}
+.pngwing-7-icon {
+  top: 0;
+  left: 115px;
+  width: 674.2px;
+  height: 483.9px;
+  object-fit: contain;
+  z-index: 1;
+}
+.offer-image {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.buy-a-50 {
+  margin: 0;
+  width: 613px;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.hurry-this-offer {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.offer-disclaimer {
+  width: 613px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 130px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-left: -613px;
+  font-size: 16px;
+  font-family: Roboto;
+}
+.offer-content {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 1px 160px 931.3px;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 448091;
+  font-size: 48px;
+}
+.offer-content,
+.starbucks-offer-content,
+.starbucks-offer-content-wrapper {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.starbucks-offer-content {
+  height: 713px;
+  width: 1680px;
+  border-radius: 50px;
+  background-color: #ffb703;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 101.3px 0 589.7px;
+  gap: 11px;
+}
+.starbucks-offer-content-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 193.7px;
+  text-align: left;
+  font-size: 18px;
+  color: #1c1c1c;
+  font-family: Manrope;
+}
+@media screen and (max-width: 1225px) {
+  .limited-time-offer-wrapper {
+    padding-left: 383px;
+    box-sizing: border-box;
+  }
+  .offer-content {
+    padding: 20px 80px 605px;
+    box-sizing: border-box;
+  }
+  .starbucks-offer-content {
+    padding-top: 43px;
+    padding-bottom: 249px;
+    box-sizing: border-box;
+  }
+  .starbucks-offer-content-wrapper {
+    padding-bottom: 126px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .limited-time-offer-wrapper {
+    padding-left: 191px;
+    box-sizing: border-box;
+  }
+  .buy-a-50 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .offer-content {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 393px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .limited-time-offer-wrapper {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .buy-a-50 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .starbucks-offer-content {
+    padding-top: 28px;
+    padding-bottom: 162px;
+    box-sizing: border-box;
+  }
+  .starbucks-offer-content-wrapper {
+    padding-bottom: 82px;
+    box-sizing: border-box;
+  }
+}

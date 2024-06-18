@@ -1,0 +1,322 @@
+.free-shipping-available {
+  position: absolute;
+  top: calc(50% - 6.5px);
+  left: calc(50% - 113px);
+  line-height: 100%;
+}
+.logo-symbol-icon,
+.ticker {
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ticker {
+  align-self: stretch;
+  height: 35px;
+  background-color: #ea7700;
+}
+.logo-symbol-icon {
+  height: 64px;
+  width: 64px;
+}
+.lucidmyriadgifts {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  line-height: 120%;
+  font-weight: 500;
+  display: inline-block;
+}
+.logo,
+.logo-symbol-icon1 {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.logo {
+  width: 362px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 25px 0 0;
+  box-sizing: border-box;
+  gap: 18px;
+}
+.logo-symbol-icon1 {
+  height: 49.8px;
+  width: 49.8px;
+  position: relative;
+}
+.lucidmyriadgifts1 {
+  height: 38px;
+  position: relative;
+  line-height: 120%;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.logo1 {
+  width: 270.9px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 14px;
+  color: #fff;
+}
+.shooping {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.menu-item-1-child {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.menu-item-1 {
+  height: 22px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 9px;
+}
+.blog {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.menu-item-3-child {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.menu-item-3 {
+  height: 22px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 9px;
+}
+.about-us {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.menu-item-4-child {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.menu-block,
+.menu-item-4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.menu-item-4 {
+  height: 22px;
+  gap: 9px;
+}
+.menu-block {
+  gap: 48px;
+  font-size: 16px;
+  font-family: Roboto;
+}
+.contact,
+.shop-now {
+  position: relative;
+  line-height: 135%;
+}
+.shop-now-wrapper {
+  border-radius: 999px;
+  background-color: #000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 24px;
+  white-space: nowrap;
+  color: #fff;
+}
+.icon,
+.icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.menu-block-2 {
+  width: 402px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0 0 0 33px;
+  box-sizing: border-box;
+  gap: 48px;
+  font-size: 16px;
+  font-family: Roboto;
+}
+.nav-3-desktop,
+.nav1 {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.nav1 {
+  background-color: #fff;
+  overflow-x: auto;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 23px 120px;
+  gap: 20px;
+  text-align: left;
+  font-size: 32px;
+  font-family: Manrope;
+}
+.nav-3-desktop {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.hero-section,
+.nav,
+.summer-sale {
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.nav {
+  width: 1920px;
+  display: none;
+  flex-direction: column;
+}
+.hero-section,
+.summer-sale {
+  display: flex;
+}
+.hero-section {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: row;
+  text-align: center;
+  font-size: 14px;
+  color: #000;
+  font-family: Inter;
+}
+.summer-sale {
+  flex: 1;
+  flex-direction: column;
+  padding: 44.5px 0 0;
+  box-sizing: border-box;
+  min-width: 370px;
+}
+.games {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 79px;
+}
+.featured-categories,
+.featured-product-section {
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.featured-categories {
+  flex: 0.8831;
+  border-radius: 15px;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 25px 23px 27px 24px;
+  gap: 15.5px;
+  min-width: 301px;
+}
+.featured-product-section {
+  align-self: stretch;
+  background-color: #ffb703;
+  flex-direction: row;
+  justify-content: center;
+  padding: 53px 120px 52px;
+  gap: 24px;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Manrope;
+}
+.homepage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1525px) {
+  .featured-product-section {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .featured-product-section {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .lucidmyriadgifts,
+  .lucidmyriadgifts1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .menu-block {
+    flex-wrap: wrap;
+  }
+  .summer-sale {
+    min-width: 100%;
+  }
+  .featured-product-section {
+    padding: 34px 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .games,
+  .lucidmyriadgifts,
+  .lucidmyriadgifts1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .featured-categories {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+    flex: 1;
+  }
+}

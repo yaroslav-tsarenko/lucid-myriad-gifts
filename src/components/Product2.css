@@ -1,0 +1,100 @@
+.card-design-fenty-inner {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  background: linear-gradient(180deg, #ff8796, #feba95);
+}
+.mask-group-icon4 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  z-index: 1;
+}
+.usd-100-100010 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  z-index: 1;
+}
+.card-design-fenty3,
+.card-design15,
+.usd-100-1000-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.usd-100-1000-wrapper1 {
+  flex-direction: row;
+  padding: 0 12px 0 11px;
+}
+.card-design-fenty3,
+.card-design15 {
+  flex: 1;
+  max-width: 100%;
+}
+.card-design-fenty3 {
+  flex-direction: column;
+  padding: 74.9px 56px 21px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 37.8px;
+}
+.card-design15 {
+  flex-direction: row;
+}
+.fenty-giftcard2 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.text13 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.usd-2002 {
+  position: relative;
+  line-height: 22px;
+  color: #1c1c1c;
+  display: inline-block;
+  min-width: 118px;
+}
+.product23,
+.text-group {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  text-align: left;
+  color: #000;
+  font-family: Roboto;
+}
+.product23 {
+  height: 344px;
+  width: 402px;
+  margin: 0 !important;
+  position: absolute;
+  top: 417px;
+  left: 426px;
+  gap: 24px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 16px;
+  color: #1d1d1d;
+  font-family: Inter;
+}

@@ -1,0 +1,188 @@
+.makeup-beauty {
+  margin: 0;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 500;
+  font-family: Manrope;
+}
+.card-design-fenty2 {
+  height: 102px;
+  width: 150px;
+  position: relative;
+  object-fit: contain;
+}
+.hurry-before-its2,
+.off3 {
+  position: relative;
+  line-height: 120%;
+}
+.off3 {
+  display: inline-block;
+  min-width: 73px;
+}
+.hurry-before-its2 {
+  align-self: stretch;
+  font-size: 14px;
+}
+.off-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 5px;
+}
+.card-design-fenty-parent,
+.frame-wrapper,
+.off-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper {
+  width: 108px;
+  flex-direction: column;
+  padding: 19.5px 0 0;
+  box-sizing: border-box;
+}
+.card-design-fenty-parent {
+  align-self: stretch;
+  border-radius: 15px;
+  background-color: #f1f1f1;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 15.3px 36px 14.7px;
+  gap: 24px;
+}
+.hurry-before-its3,
+.off4 {
+  position: relative;
+  line-height: 120%;
+}
+.off4 {
+  display: inline-block;
+  min-width: 73px;
+}
+.hurry-before-its3 {
+  align-self: stretch;
+  font-size: 14px;
+}
+.frame-wrapper1,
+.off-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.off-group {
+  align-self: stretch;
+  gap: 5px;
+}
+.frame-wrapper1 {
+  width: 108px;
+  padding: 19.5px 0 0;
+  box-sizing: border-box;
+}
+.card-design4-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  background: linear-gradient(180deg, #cba1f9, #eab4ff);
+}
+.pngwing-1-icon5 {
+  position: absolute;
+  height: 80.1%;
+  width: 54.47%;
+  top: 19.9%;
+  right: 0;
+  bottom: 0;
+  left: 45.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  z-index: 1;
+}
+.giftcards4,
+.wishdeck4 {
+  margin: 0;
+}
+.wishdeck-giftcards4 {
+  position: absolute;
+  height: 36.37%;
+  width: 47.33%;
+  top: 9.12%;
+  left: 7.67%;
+  line-height: 17px;
+  display: inline-block;
+  z-index: 2;
+}
+.card-design42 {
+  height: 102px;
+  flex: 1;
+  position: relative;
+  min-width: 97px;
+  font-size: 14px;
+  color: #1d1d1d;
+}
+.featured-categories2,
+.frame-container {
+  border-radius: 15px;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-container {
+  align-self: stretch;
+  background-color: #f1f1f1;
+  flex-direction: row;
+  padding: 15.3px 36px 14.7px;
+  gap: 24px;
+}
+.featured-categories2 {
+  flex: 0.8831;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 25px 23px 27px 24px;
+  box-sizing: border-box;
+  gap: 15.5px;
+  min-width: 301px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .makeup-beauty {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .card-design-fenty2 {
+    flex: 1;
+  }
+  .off3 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .card-design-fenty-parent {
+    flex-wrap: wrap;
+  }
+  .off4 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .frame-container {
+    flex-wrap: wrap;
+  }
+  .featured-categories2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+    flex: 1;
+  }
+}

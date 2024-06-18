@@ -1,0 +1,182 @@
+.filter-headers,
+.filter-headers1 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #d7d7d7;
+  box-sizing: border-box;
+}
+.price1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.price-label-container {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  box-sizing: border-box;
+}
+.icon10 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.price-input {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 18px;
+  font-family: Manrope;
+}
+.frame-input1 {
+  margin: 0;
+  height: 19px;
+  width: 16px;
+}
+.placeholder {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 38px;
+  max-width: 100%;
+}
+.checkbox-section-11 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+  max-width: 100%;
+}
+.frame-input2 {
+  margin: 0;
+  height: 19px;
+  width: 16px;
+}
+.div3 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 44px;
+  max-width: 100%;
+}
+.checkbox-section-2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+  max-width: 100%;
+}
+.frame-input3 {
+  margin: 0;
+  height: 19px;
+  width: 16px;
+}
+.div4 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 52px;
+  max-width: 100%;
+}
+.checkbox-section-3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+  max-width: 100%;
+}
+.frame-input4 {
+  margin: 0;
+  height: 19px;
+  width: 16px;
+}
+.div5 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 52px;
+  max-width: 100%;
+}
+.checkbox-section-5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+  max-width: 100%;
+}
+.frame-input5 {
+  margin: 0;
+  height: 19px;
+  width: 16px;
+}
+.div6 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 59px;
+  max-width: 100%;
+}
+.checkbox-section-4,
+.expandable-section-3,
+.filter {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.checkbox-section-4 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 14px;
+}
+.expandable-section-3,
+.filter {
+  flex-direction: column;
+}
+.expandable-section-3 {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 16px;
+  font-family: Roboto;
+}
+.filter {
+  width: 386px;
+  gap: 23.5px;
+  text-align: left;
+  font-size: 18px;
+  color: #1d1d1d;
+  font-family: Manrope;
+}
+@media screen and (max-width: 450px) {
+  .checkbox-section-11,
+  .checkbox-section-2,
+  .checkbox-section-3,
+  .checkbox-section-4,
+  .checkbox-section-5 {
+    flex-wrap: wrap;
+  }
+}

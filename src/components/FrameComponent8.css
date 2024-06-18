@@ -1,0 +1,215 @@
+.our-wishdeck-cards {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: -12px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.our-wishdeck-cards-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 11px;
+  box-sizing: border-box;
+  min-height: 11px;
+  max-width: 100%;
+}
+.treat-yourself-or {
+  width: 344px;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  display: inline-block;
+  max-width: 100%;
+}
+.card-design4-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  background: linear-gradient(180deg, #cba1f9, #eab4ff);
+}
+.usd-100-10005 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 18px;
+  text-transform: uppercase;
+  z-index: 2;
+}
+.usd-100-1000-container {
+  width: 131px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 76.8px 0 0;
+  box-sizing: border-box;
+}
+.pngwing-1-icon3 {
+  height: 242.5px;
+  width: 242px;
+  position: absolute;
+  margin: 0 !important;
+  right: -217.1px;
+  bottom: -163.5px;
+  object-fit: cover;
+  z-index: 1;
+}
+.giftcards3,
+.wishdeck3 {
+  margin: 0;
+}
+.wishdeck-giftcards3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 2;
+}
+.card-design41,
+.card-design5,
+.pngwing-1-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pngwing-1-group {
+  position: relative;
+  margin-left: -131px;
+  font-size: 30px;
+}
+.card-design41,
+.card-design5 {
+  max-width: 100%;
+}
+.card-design41 {
+  flex: 1;
+  padding: 28.3px 30px 140.9px;
+  box-sizing: border-box;
+  position: relative;
+}
+.card-design5 {
+  align-self: stretch;
+}
+.most-popular-gift3 {
+  position: relative;
+  letter-spacing: 0.08em;
+  line-height: 110%;
+  text-transform: capitalize;
+}
+.wishdeck-giftcard-beauty {
+  position: relative;
+  line-height: 22px;
+}
+.most-popular-gift-cards-container,
+.text3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+}
+.most-popular-gift-cards-container {
+  flex-direction: column;
+  gap: 12px;
+  text-align: center;
+  font-size: 14px;
+  color: #1c1c1c;
+  font-family: Roboto;
+}
+.button5 {
+  width: 137px;
+  height: 54px;
+}
+.product13 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 370px;
+  max-width: 100%;
+  font-size: 12px;
+}
+.wish-deck-card-content,
+.wish-deck-cards {
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.wish-deck-cards {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: left;
+  font-size: 30px;
+  color: #1d1d1d;
+  font-family: Inter;
+}
+.wish-deck-card-content {
+  width: 1704px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.wish-deck-card-content-wrapper {
+  width: 1896px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 160px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: 48px;
+  color: #000;
+  font-family: Manrope;
+}
+@media screen and (max-width: 850px) {
+  .our-wishdeck-cards {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .wishdeck-giftcards3 {
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .wish-deck-card-content,
+  .wish-deck-cards {
+    gap: 16px;
+  }
+  .wish-deck-card-content-wrapper {
+    padding-bottom: 104px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .our-wishdeck-cards {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .wishdeck-giftcards3 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .product13 {
+    min-width: 100%;
+  }
+}

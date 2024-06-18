@@ -1,0 +1,117 @@
+.card-images {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  background: linear-gradient(180deg, #45ebf7, #83f7d2);
+}
+.image-1-icon3 {
+  height: 120.3px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.image-1-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 28px 0 27px;
+}
+.usd-100-10007 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+  z-index: 1;
+}
+.card-design-adidas1,
+.card-design11 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.card-design-adidas1 {
+  flex: 1;
+  flex-direction: column;
+  padding: 59.5px 67px 21px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 41.2px;
+}
+.card-design11 {
+  align-self: stretch;
+  flex-direction: row;
+}
+.most-popular-gift9 {
+  position: relative;
+  letter-spacing: 0.08em;
+  line-height: 110%;
+  text-transform: capitalize;
+}
+.adidas-giftcard1 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.card-labels,
+.text9 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text9 {
+  align-self: stretch;
+  flex-direction: row;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+}
+.card-labels {
+  width: 200px;
+  flex-direction: column;
+  gap: 12px;
+  font-size: 14px;
+  color: #1c1c1c;
+  font-family: Roboto;
+}
+.button68 {
+  width: 137px;
+  height: 54px;
+}
+.product19 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 370px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 16px;
+  color: #1d1d1d;
+  font-family: Inter;
+}
+@media screen and (max-width: 750px) {
+  .product19 {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .card-design-adidas1 {
+    gap: 21px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

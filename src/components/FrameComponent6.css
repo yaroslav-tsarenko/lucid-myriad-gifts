@@ -1,0 +1,114 @@
+.frame-inner {
+  height: 24px;
+  width: 73px;
+  display: none;
+}
+.card-design-playstation-child,
+.div2 {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.div2 {
+  letter-spacing: 0.15em;
+  line-height: 18px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 26px;
+  white-space: nowrap;
+}
+.card-design-playstation-child {
+  margin-left: -123px;
+  width: 219px;
+  height: 97px;
+}
+.mask-group-icon3 {
+  width: 114px;
+  height: 27.9px;
+  position: absolute;
+  margin: 0 !important;
+  top: 37px;
+  left: calc(50% - 57px);
+  object-fit: contain;
+  z-index: 1;
+}
+.card-design-playstation {
+  height: 102px;
+  width: 150px;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #5b2885, #00a5c8);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 9px 74px 115px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 18px;
+  min-width: 150px;
+  z-index: 1;
+}
+.hurry-before-its4,
+.off5 {
+  position: relative;
+  line-height: 120%;
+}
+.off5 {
+  display: inline-block;
+  min-width: 73px;
+  z-index: 1;
+}
+.hurry-before-its4 {
+  align-self: stretch;
+  font-size: 14px;
+}
+.off-container {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 5px;
+}
+.frame-parent1,
+.frame-wrapper2,
+.off-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper2 {
+  width: 108px;
+  flex-direction: column;
+  padding: 19.5px 0 0;
+  box-sizing: border-box;
+  font-size: 20px;
+  color: #000;
+  font-family: Inter;
+}
+.frame-parent1 {
+  align-self: stretch;
+  border-radius: 15px;
+  background-color: #f1f1f1;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 15.3px 36px 14.7px;
+  gap: 24px;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 450px) {
+  .card-design-playstation {
+    flex: 1;
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .off5 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .frame-parent1 {
+    flex-wrap: wrap;
+  }
+}

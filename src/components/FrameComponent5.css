@@ -1,0 +1,87 @@
+.frame-child1 {
+  height: 63px;
+  width: 108px;
+  display: none;
+}
+.hurry-before-its5,
+.off6 {
+  position: relative;
+  line-height: 120%;
+  z-index: 1;
+}
+.off6 {
+  display: inline-block;
+  min-width: 73px;
+}
+.hurry-before-its5 {
+  align-self: stretch;
+  font-size: 14px;
+}
+.frame-wrapper3,
+.off-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.off-parent1 {
+  align-self: stretch;
+  gap: 5px;
+}
+.frame-wrapper3 {
+  width: 108px;
+  padding: 19.5px 0 0;
+  box-sizing: border-box;
+}
+.card-design-xbox-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  background: linear-gradient(180deg, #b0ebb4, #e0fbe2);
+}
+.xbox-symbolpng-icon1 {
+  position: absolute;
+  top: calc(50% - 16px);
+  left: calc(50% - 16px);
+  border-radius: 6px;
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  z-index: 1;
+}
+.card-design-xbox1 {
+  height: 102px;
+  flex: 1;
+  position: relative;
+  min-width: 97px;
+}
+.frame-parent2 {
+  align-self: stretch;
+  border-radius: 15px;
+  background-color: #f1f1f1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 15.3px 36px 14.7px;
+  gap: 24px;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .off6 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .frame-parent2 {
+    flex-wrap: wrap;
+  }
+}

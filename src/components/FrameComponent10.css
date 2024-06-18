@@ -1,0 +1,362 @@
+.gift-card-grid,
+.gift-cards {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.gift-cards {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 64px;
+}
+.gift-card-grid {
+  flex: 1;
+  flex-direction: column;
+  padding: 46px 0 0;
+  box-sizing: border-box;
+  min-width: 531px;
+  max-width: 100%;
+}
+.find-the-perfect {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.looking-for-the {
+  width: 538px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  display: inline-block;
+  max-width: 100%;
+}
+.button3 {
+  width: 137px;
+  height: 54px;
+}
+.find-the-perfect-gift-for-ever-parent,
+.gift-card-inner-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.find-the-perfect-gift-for-ever-parent {
+  flex-direction: column;
+  gap: 24px;
+  min-width: 742px;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: Manrope;
+}
+.gift-card-inner-content {
+  align-self: stretch;
+  background-color: #d1ecfa;
+  flex-direction: row;
+  padding: 116.5px 42px;
+  box-sizing: border-box;
+  gap: 36.8px;
+}
+.pngwing-9-icon {
+  height: 255px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.i-tunes-card-content {
+  width: 632px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 66px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.itunes-gift-cards {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 500;
+  font-family: Manrope;
+}
+.unlock-endless-entertainment,
+.unlock-endless-entertainment1 {
+  margin: 0;
+  position: relative;
+  display: inline-block;
+  font-style: italic;
+  font-weight: 400;
+  font-family: inherit;
+  max-width: 100%;
+}
+.unlock-endless-entertainment {
+  width: 428px;
+  font-size: 32px;
+  line-height: 120%;
+  text-align: justify;
+}
+.unlock-endless-entertainment1 {
+  width: 321px;
+  font-size: 24px;
+  text-decoration: underline;
+  line-height: 29px;
+  color: #ea7700;
+}
+.i-tunes-cards,
+.itunes-gift-cards-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.itunes-gift-cards-parent {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 12.5px;
+}
+.i-tunes-cards {
+  flex: 0.9477;
+  background-color: #d1ecfa;
+  overflow: hidden;
+  align-items: flex-end;
+  padding: 121.3px 114px 162.7px 62px;
+  box-sizing: border-box;
+  gap: 89px;
+  min-width: 538px;
+}
+.pngwing-8-icon {
+  height: 315.3px;
+  width: 476px;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.pngwing-8-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 1px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.generic-gift-cards {
+  font-size: inherit;
+  line-height: 110%;
+}
+.generic-gift-cards,
+.shop-gift-cards,
+.the-perfect-gift {
+  margin: 0;
+  position: relative;
+  font-weight: 500;
+  font-family: inherit;
+}
+.the-perfect-gift {
+  font-size: 32px;
+  line-height: 120%;
+  display: inline-block;
+  max-width: 100%;
+}
+.shop-gift-cards {
+  font-size: 24px;
+  text-decoration: underline;
+  line-height: 29px;
+  color: #ea7700;
+}
+.generic-gift-cards-parent,
+.i-tunes-cards1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.generic-gift-cards-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.i-tunes-cards1 {
+  flex: 1;
+  background-color: #d1ecfa;
+  overflow: hidden;
+  padding: 120.5px 70px 121.2px;
+  box-sizing: border-box;
+  gap: 64px;
+  min-width: 538px;
+  font-family: Manrope;
+}
+.i-tunes-cards-parent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 24px;
+  text-align: center;
+  font-size: 80px;
+  color: #1c1c1c;
+}
+.gift-card-content,
+.gift-card-content-wrapper,
+.i-tunes-cards-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.gift-card-content {
+  width: 1680px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 64px;
+}
+.gift-card-content-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 160px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 17.1px;
+  color: #1d1d1d;
+  font-family: Inter;
+}
+@media screen and (max-width: 1525px) {
+  .find-the-perfect-gift-for-ever-parent {
+    flex: 1;
+  }
+  .gift-card-inner-content {
+    flex-wrap: wrap;
+  }
+  .i-tunes-cards,
+  .i-tunes-cards1 {
+    flex: 1;
+  }
+  .i-tunes-cards-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .find-the-perfect-gift-for-ever-parent {
+    min-width: 100%;
+  }
+  .gift-card-inner-content {
+    padding-left: 21px;
+    padding-right: 21px;
+    box-sizing: border-box;
+  }
+  .gift-card-content-wrapper {
+    padding-bottom: 104px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .gift-cards {
+    flex-wrap: wrap;
+    gap: 32px;
+  }
+  .gift-card-grid {
+    min-width: 100%;
+  }
+  .find-the-perfect {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .gift-card-inner-content {
+    gap: 18px;
+    padding-top: 76px;
+    padding-bottom: 76px;
+    box-sizing: border-box;
+  }
+  .i-tunes-card-content {
+    padding-left: 33px;
+    padding-right: 33px;
+    box-sizing: border-box;
+  }
+  .itunes-gift-cards {
+    font-size: 40px;
+    line-height: 53px;
+  }
+  .unlock-endless-entertainment {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .i-tunes-cards {
+    gap: 44px;
+    padding: 79px 57px 106px 31px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .generic-gift-cards {
+    font-size: 40px;
+    line-height: 53px;
+  }
+  .the-perfect-gift {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .i-tunes-cards1 {
+    gap: 32px;
+    padding: 78px 35px 79px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .gift-card-content {
+    gap: 32px;
+  }
+  .gift-card-content-wrapper {
+    padding-bottom: 68px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .gift-cards {
+    gap: 16px;
+  }
+  .find-the-perfect {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .itunes-gift-cards {
+    font-size: 24px;
+    line-height: 35px;
+  }
+  .unlock-endless-entertainment,
+  .unlock-endless-entertainment1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .i-tunes-cards {
+    gap: 22px;
+    padding-top: 51px;
+    padding-right: 20px;
+    padding-bottom: 69px;
+    box-sizing: border-box;
+  }
+  .generic-gift-cards {
+    font-size: 24px;
+    line-height: 35px;
+  }
+  .shop-gift-cards,
+  .the-perfect-gift {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .i-tunes-cards1 {
+    gap: 16px;
+    padding-top: 51px;
+    padding-bottom: 51px;
+    box-sizing: border-box;
+  }
+  .gift-card-content {
+    gap: 16px;
+  }
+}

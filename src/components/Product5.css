@@ -1,0 +1,139 @@
+.wishdeck-card-image-one {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  background: linear-gradient(180deg, #fee5b1, #fff06e);
+}
+.pngwing-1-icon2 {
+  height: 242.5px;
+  width: 242px;
+  position: absolute;
+  margin: 0 !important;
+  right: -217.1px;
+  bottom: -163.5px;
+  object-fit: cover;
+  z-index: 1;
+}
+.giftcards2,
+.wishdeck2 {
+  margin: 0;
+}
+.wishdeck-giftcards2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 2;
+}
+.wishdeck-card-content-one {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.usd-100-10004 {
+  width: 157.1px;
+  height: 21.6px;
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.15em;
+  line-height: 18px;
+  text-transform: uppercase;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.card-design21,
+.card-design3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.card-design21 {
+  flex: 1;
+  flex-direction: column;
+  padding: 28.3px 30px 137.3px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 4.6px;
+}
+.card-design3 {
+  align-self: stretch;
+  flex-direction: row;
+}
+.most-popular-gift2 {
+  position: relative;
+  letter-spacing: 0.08em;
+  line-height: 110%;
+  text-transform: capitalize;
+}
+.wishdeck-giftcard-footwear {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+}
+.text2,
+.wishdeck-card-two {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+}
+.wishdeck-card-two {
+  flex-direction: column;
+  gap: 12px;
+  text-align: center;
+  font-size: 14px;
+  color: #1c1c1c;
+  font-family: Roboto;
+}
+.button4 {
+  width: 137px;
+  height: 54px;
+}
+.product12 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 370px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 30px;
+  color: #1d1d1d;
+  font-family: Inter;
+}
+@media screen and (max-width: 850px) {
+  .wishdeck-giftcards2 {
+    font-size: 24px;
+    line-height: 29px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .wishdeck-giftcards2 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .product12 {
+    min-width: 100%;
+  }
+}

@@ -1,0 +1,153 @@
+.off,
+.up-to {
+  margin: 0;
+}
+.up-to-60-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 500;
+  font-family: inherit;
+}
+.summer-sale-ends {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+}
+.summer-sale-digits {
+  width: 25px;
+  position: relative;
+  line-height: 29px;
+  display: inline-block;
+  min-width: 25px;
+}
+.summer-sale-numbers {
+  flex: 1;
+  border-radius: 15px;
+  background-color: #ea7700;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 21px 22px 20px;
+}
+.h3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 9px;
+}
+.summer-sale-numbers1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20.5px 0 0;
+  text-align: left;
+  color: #000;
+}
+.b1 {
+  width: 28px;
+  position: relative;
+  line-height: 29px;
+  display: inline-block;
+  min-width: 28px;
+}
+.summer-sale-numbers2 {
+  flex: 1;
+  border-radius: 15px;
+  background-color: #ea7700;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 21px 21px 20px;
+}
+.h31 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 9px;
+}
+.summer-sale-numbers3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20.5px 0 0;
+  text-align: left;
+  color: #000;
+}
+.b2 {
+  width: 29px;
+  position: relative;
+  line-height: 29px;
+  display: inline-block;
+  min-width: 29px;
+}
+.summer-sale-numbers4 {
+  flex: 1;
+  border-radius: 15px;
+  background-color: #ea7700;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 21px 20px 20px;
+}
+.summer-sale-banner,
+.summer-sale-counter,
+.summer-sale-numbers4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.summer-sale-counter {
+  width: 268px;
+  flex-direction: row;
+  gap: 10px;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+  font-family: Inter;
+}
+.summer-sale-banner {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 9px;
+  text-align: left;
+  font-size: 80px;
+  color: #000;
+  font-family: Manrope;
+}
+@media screen and (max-width: 850px) {
+  .up-to-60-container {
+    font-size: 40px;
+    line-height: 53px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .up-to-60-container {
+    font-size: 24px;
+    line-height: 35px;
+  }
+  .b1,
+  .b2,
+  .h3,
+  .h31,
+  .summer-sale-digits {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

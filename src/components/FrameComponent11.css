@@ -1,0 +1,199 @@
+.retail-shopping {
+  margin: 0;
+  position: relative;
+  font-size: 48px;
+  line-height: 53px;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.endless-selection-for {
+  width: 295px;
+  position: relative;
+  line-height: 22px;
+  font-family: Roboto;
+  display: inline-block;
+}
+.card-design-fenty-child {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  background: linear-gradient(180deg, #ff8796, #feba95);
+}
+.mask-group-icon,
+.usd-100-10002 {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.mask-group-icon {
+  align-self: stretch;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.usd-100-10002 {
+  line-height: 22px;
+}
+.card-design-fenty,
+.card-design1,
+.usd-100-1000-wrapper {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.usd-100-1000-wrapper {
+  flex-direction: row;
+  padding: 0 12px 0 11px;
+}
+.card-design-fenty,
+.card-design1 {
+  max-width: 100%;
+}
+.card-design-fenty {
+  flex: 1;
+  flex-direction: column;
+  padding: 74.8px 56px 21px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 37.9px;
+}
+.card-design1 {
+  height: 264px;
+  flex-direction: row;
+}
+.most-popular-gift1 {
+  position: relative;
+  letter-spacing: 0.08em;
+  line-height: 110%;
+  text-transform: capitalize;
+}
+.fenty-giftcard {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.most-popular-gift-cards-group,
+.text1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text1 {
+  align-self: stretch;
+  flex-direction: row;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+}
+.most-popular-gift-cards-group {
+  width: 200px;
+  flex-direction: column;
+  gap: 12px;
+  font-size: 14px;
+  color: #1c1c1c;
+  font-family: Roboto;
+}
+.button2 {
+  width: 137px;
+  height: 54px;
+}
+.product-cards,
+.product11 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.product11 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 370px;
+}
+.product-cards {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 32px;
+  color: #1d1d1d;
+  font-family: Inter;
+}
+.retail-content,
+.retail-content-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.retail-content {
+  flex: 1;
+  background-color: #d1ecfa;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 80px 96px 80px 120px;
+  gap: 24px;
+}
+.retail-content-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 80px;
+  text-align: center;
+  font-size: 16px;
+  color: #000;
+  font-family: Manrope;
+}
+@media screen and (max-width: 1225px) {
+  .retail-content {
+    padding-left: 60px;
+    padding-right: 48px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .retail-shopping {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .product11 {
+    min-width: 100%;
+  }
+  .product-cards {
+    gap: 16px;
+  }
+  .retail-content {
+    padding: 52px 24px 52px 30px;
+    box-sizing: border-box;
+  }
+  .retail-content-wrapper {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .retail-shopping {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .card-design-fenty {
+    gap: 19px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .retail-content-wrapper {
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}

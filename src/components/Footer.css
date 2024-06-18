@@ -1,0 +1,252 @@
+.logo-symbol-icon7 {
+  height: 64px;
+  width: 64px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.lucidmyriadgifts7 {
+  margin: 0;
+  width: 255px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.logo7 {
+  width: 307px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 18px;
+  font-size: 32px;
+  font-family: Manrope;
+}
+.about2 {
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  display: inline-block;
+  min-width: 73px;
+}
+.about3,
+.contact4,
+.faq1,
+.press1,
+.reviews1 {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 46px;
+}
+.contact4,
+.faq1,
+.press1,
+.reviews1 {
+  min-width: 31px;
+}
+.contact4,
+.press1,
+.reviews1 {
+  min-width: 61px;
+}
+.press1,
+.reviews1 {
+  min-width: 42px;
+}
+.reviews1 {
+  min-width: 63px;
+}
+.about-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.product2 {
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  display: inline-block;
+  min-width: 94px;
+}
+.businesses1 {
+  display: inline-block;
+  min-width: 85px;
+}
+.businesses1,
+.gift-card-incentives1 {
+  position: relative;
+  line-height: 120%;
+}
+.footer-columns {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.legal1,
+.privacy1,
+.site-terms1 {
+  position: relative;
+  display: inline-block;
+}
+.legal1 {
+  font-size: 24px;
+  line-height: 29px;
+  min-width: 64px;
+}
+.privacy1,
+.site-terms1 {
+  line-height: 120%;
+  min-width: 81px;
+}
+.privacy1 {
+  min-width: 56px;
+}
+.footer-columns1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.use-gifthaven1 {
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+}
+.how-it-works1,
+.redeem1,
+.why-us1 {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 98px;
+}
+.redeem1,
+.why-us1 {
+  min-width: 67px;
+}
+.redeem1 {
+  min-width: 62px;
+}
+.footer-columns2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.other-stuff1 {
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+}
+.blog2,
+.gift-card-worth1,
+.sitemap1 {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 34px;
+}
+.gift-card-worth1,
+.sitemap1 {
+  min-width: 119px;
+}
+.sitemap1 {
+  min-width: 62px;
+}
+.footer-columns3,
+.logo-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.logo-parent {
+  width: 1536px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 100%;
+}
+.categories,
+.restaurants-bars-spas-shopping {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+}
+.categories {
+  min-width: 83px;
+}
+.restaurants-bars-spas-shopping {
+  max-width: 100%;
+}
+.categories-parent,
+.footer1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  max-width: 100%;
+}
+.footer1 {
+  align-self: stretch;
+  background-color: #ea7700;
+  flex-direction: column;
+  align-items: center;
+  padding: 80px 20px 102px;
+  box-sizing: border-box;
+  gap: 64px;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}
+@media screen and (max-width: 1100px) {
+  .logo-parent {
+    justify-content: center;
+  }
+  .categories-parent,
+  .logo-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .lucidmyriadgifts7 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .footer1 {
+    gap: 32px;
+    padding-top: 52px;
+    padding-bottom: 66px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .about2,
+  .legal1,
+  .lucidmyriadgifts7,
+  .other-stuff1,
+  .product2,
+  .use-gifthaven1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .footer1 {
+    gap: 16px;
+  }
+}

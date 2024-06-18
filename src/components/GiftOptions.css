@@ -1,0 +1,1076 @@
+.choose,
+.who-are-you {
+  position: relative;
+  font-weight: 500;
+  font-family: Manrope;
+  color: #1c1c1c;
+}
+.choose {
+  margin: 0;
+  font-size: 48px;
+  line-height: 53px;
+  text-align: left;
+}
+.who-are-you {
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+}
+.button16 {
+  height: 54px;
+  flex: 0.1472;
+  min-width: 239px;
+  max-width: 100%;
+}
+.tag-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button18 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 45px;
+}
+.tag-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button17,
+.buttons,
+.who-are-you-gifting-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  max-width: 100%;
+}
+.button17 {
+  flex: 1;
+  border-radius: 4px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  align-items: center;
+  padding: 14px 20px;
+  gap: 16px;
+  min-width: 239px;
+}
+.buttons,
+.who-are-you-gifting-parent {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 12px;
+}
+.who-are-you-gifting-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.select,
+.select-delivery-method {
+  position: relative;
+  line-height: 22px;
+  text-align: left;
+}
+.select-delivery-method {
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Manrope;
+  color: #1c1c1c;
+}
+.select {
+  font-size: 16px;
+  font-family: Lato;
+  color: #4b4b4b;
+  display: inline-block;
+  min-width: 51px;
+}
+.selectphp-icon {
+  height: 8px;
+  width: 13px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.delivery-method,
+.options {
+  align-self: stretch;
+  display: flex;
+}
+.options {
+  border-radius: 2px;
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 11px;
+  gap: 20px;
+}
+.delivery-method {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.tag-icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button20 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 18px;
+  white-space: nowrap;
+}
+.tag-icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button19 {
+  border-radius: 4px;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 55px;
+  gap: 16px;
+}
+.tag-icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button22 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 18px;
+  white-space: nowrap;
+}
+.tag-icon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button21 {
+  border-radius: 4px;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 55px;
+  gap: 16px;
+}
+.tag-icon6 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button24 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 18px;
+  white-space: nowrap;
+}
+.tag-icon7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button23 {
+  border-radius: 4px;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 55px;
+  gap: 16px;
+}
+.tag-icon8 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button26 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 18px;
+  white-space: nowrap;
+}
+.tag-icon9 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button25 {
+  border-radius: 4px;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 55px;
+  gap: 16px;
+}
+.tag-icon10 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button28 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 27px;
+  white-space: nowrap;
+}
+.tag-icon11 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button27 {
+  width: 130px;
+  border-radius: 4px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 50px;
+  gap: 16px;
+}
+.tag-icon12 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button30 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 27px;
+  white-space: nowrap;
+}
+.tag-icon13 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button29 {
+  width: 130px;
+  border-radius: 4px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 50px;
+  gap: 16px;
+}
+.tag-icon14 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button32 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 27px;
+  white-space: nowrap;
+}
+.tag-icon15 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button31 {
+  width: 130px;
+  border-radius: 4px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 50px;
+  gap: 16px;
+}
+.tag-icon16 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button34 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 27px;
+  white-space: nowrap;
+}
+.tag-icon17 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button33 {
+  width: 130px;
+  border-radius: 4px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 50px;
+  gap: 16px;
+}
+.tag-icon18 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button36 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 27px;
+  white-space: nowrap;
+}
+.tag-icon19 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button35 {
+  width: 130px;
+  border-radius: 4px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 50px;
+  gap: 16px;
+}
+.tag-icon20 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button38 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 27px;
+  white-space: nowrap;
+}
+.tag-icon21 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button37 {
+  width: 130px;
+  border-radius: 4px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 50px;
+  gap: 16px;
+}
+.tag-icon22 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button40 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 27px;
+  white-space: nowrap;
+}
+.tag-icon23 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button39 {
+  width: 130px;
+  border-radius: 4px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 50px;
+  gap: 16px;
+}
+.button41 {
+  height: 54px;
+  width: 130px;
+}
+.tag-icon24 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button43 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 27px;
+  white-space: nowrap;
+}
+.tag-icon25 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button42 {
+  width: 130px;
+  border-radius: 4px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 50px;
+  gap: 16px;
+}
+.tag-icon26 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button45 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 27px;
+  white-space: nowrap;
+}
+.tag-icon27 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button44 {
+  width: 130px;
+  border-radius: 4px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 50px;
+  gap: 16px;
+}
+.tag-icon28 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button47 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 36px;
+  white-space: nowrap;
+}
+.tag-icon29 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button46 {
+  border-radius: 4px;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 46px;
+  gap: 16px;
+}
+.tag-icon30 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button49 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 36px;
+  white-space: nowrap;
+}
+.tag-icon31 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button48 {
+  border-radius: 4px;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 46px;
+  gap: 16px;
+}
+.tag-icon32 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button51 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 36px;
+  white-space: nowrap;
+}
+.tag-icon33 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button50 {
+  border-radius: 4px;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 46px;
+  gap: 16px;
+}
+.tag-icon34 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button53 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 36px;
+  white-space: nowrap;
+}
+.tag-icon35 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button52 {
+  border-radius: 4px;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 46px;
+  gap: 16px;
+}
+.tag-icon36 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button55 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 36px;
+  white-space: nowrap;
+}
+.tag-icon37 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button54 {
+  border-radius: 4px;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 46px;
+  gap: 16px;
+}
+.tag-icon38 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button57 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 36px;
+  white-space: nowrap;
+}
+.tag-icon39 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button56 {
+  border-radius: 4px;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 46px;
+  gap: 16px;
+}
+.tag-icon40 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button59 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 36px;
+  white-space: nowrap;
+}
+.tag-icon41 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button58 {
+  border-radius: 4px;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 46px;
+  gap: 16px;
+}
+.tag-icon42 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button61 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 36px;
+  white-space: nowrap;
+}
+.tag-icon43 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button60,
+.quantity-buttons {
+  display: flex;
+  flex-direction: row;
+}
+.button60 {
+  border-radius: 4px;
+  border: 1px solid #000;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 46px;
+  gap: 16px;
+}
+.quantity-buttons {
+  align-self: stretch;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 2px 0 0;
+  box-sizing: border-box;
+  gap: 12px 23.5px;
+  min-height: 318px;
+}
+.button62 {
+  align-self: stretch;
+  height: 54px;
+}
+.choose-parent {
+  align-self: stretch;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 22px 35px;
+  gap: 32px;
+  max-width: 100%;
+}
+.button63,
+.button64,
+.button65,
+.button66 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 80px;
+  font-family: Manrope;
+  font-weight: 500;
+  font-size: 24px;
+  color: #000;
+}
+.tag-icon44 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.read-the-full {
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 500;
+  font-family: Manrope;
+  color: #000;
+  text-align: center;
+}
+.arrow-down-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+}
+.read-the-full-details-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.tag-icon45 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button67,
+.gift-options {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.button67 {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #bdbdbd;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  padding: 24px 31px;
+  gap: 16px;
+}
+.gift-options {
+  margin: 0;
+  flex: 1;
+  overflow-y: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  min-width: 533px;
+}
+@media screen and (max-width: 1050px) {
+  .choose {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .choose-parent {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .buttons {
+    flex-wrap: wrap;
+  }
+  .gift-options {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .choose {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .button16 {
+    flex: 1;
+  }
+  .button16,
+  .button62 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .choose-parent {
+    gap: 16px;
+  }
+  .read-the-full {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .gift-options {
+    gap: 20px;
+  }
+}

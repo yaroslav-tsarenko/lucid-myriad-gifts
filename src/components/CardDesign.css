@@ -1,0 +1,68 @@
+.gift-card-backgrounds {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 3.43px;
+  background: linear-gradient(180deg, #cba1f9, #eab4ff);
+}
+.pngwing-1-icon1 {
+  height: 138.6px;
+  width: 138.3px;
+  position: absolute;
+  margin: 0 !important;
+  right: -51.9px;
+  bottom: -56.8px;
+  object-fit: cover;
+  z-index: 1;
+}
+.giftcards1,
+.wishdeck1 {
+  margin: 0;
+}
+.wishdeck-giftcards1 {
+  height: 72.2px;
+  flex: 1;
+  position: relative;
+  line-height: 20.57px;
+  display: inline-block;
+  z-index: 2;
+}
+.pngwing-1-parent {
+  width: 154px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.usd-100-10003 {
+  width: 101px;
+  position: relative;
+  font-size: 6.9px;
+  letter-spacing: 0.15em;
+  line-height: 13.9px;
+  text-transform: uppercase;
+  display: inline-block;
+  z-index: 2;
+  margin-top: -13px;
+}
+.card-design4 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 21.9px 23px 55.9px;
+  box-sizing: border-box;
+  position: relative;
+  min-width: 172px;
+  text-align: left;
+  font-size: 17.1px;
+  color: #1d1d1d;
+  font-family: Inter;
+}

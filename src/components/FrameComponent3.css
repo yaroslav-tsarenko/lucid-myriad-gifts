@@ -1,0 +1,135 @@
+.recommended-gift-cards {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.treat-yourself-or1 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  display: inline-block;
+  max-width: 100%;
+}
+.recommended-gift-cards-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+}
+.card-design-icon {
+  align-self: stretch;
+  height: 264px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.most-popular-gift10 {
+  position: relative;
+  letter-spacing: 0.08em;
+  line-height: 110%;
+  text-transform: capitalize;
+}
+.puma-giftcard1 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.most-popular-gift-cards-parent4,
+.text10 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text10 {
+  align-self: stretch;
+  flex-direction: row;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+}
+.most-popular-gift-cards-parent4 {
+  width: 200px;
+  flex-direction: column;
+  gap: 12px;
+}
+.button69 {
+  width: 137px;
+  height: 54px;
+}
+.frame-parent4,
+.product110,
+.recommendation-cards {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.product110 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 370px;
+  font-size: 14px;
+  color: #1c1c1c;
+  font-family: Roboto;
+}
+.frame-parent4,
+.recommendation-cards {
+  align-self: stretch;
+}
+.recommendation-cards {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 24px;
+  font-size: 16px;
+  color: #1d1d1d;
+  font-family: Inter;
+}
+.frame-parent4 {
+  background-color: #d1ecfa;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 80px 120px;
+  box-sizing: border-box;
+  gap: 32px;
+  text-align: center;
+  font-size: 48px;
+  color: #000;
+  font-family: Manrope;
+}
+@media screen and (max-width: 1050px) {
+  .recommended-gift-cards {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .frame-parent4 {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .product110 {
+    min-width: 100%;
+  }
+  .frame-parent4 {
+    gap: 16px;
+    padding: 52px 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .recommended-gift-cards {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

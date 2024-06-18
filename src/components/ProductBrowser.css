@@ -1,0 +1,745 @@
+.all-products,
+.home-products {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.all-products {
+  margin: 0;
+  align-self: stretch;
+  font-size: 32px;
+  line-height: 120%;
+  font-family: inherit;
+  color: #262626;
+}
+.breadcrumbs {
+  width: 673px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+  max-width: 100%;
+}
+.sort-labels {
+  height: 38px;
+  width: 105px;
+}
+.orders {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 48px;
+}
+.sort-labels1 {
+  width: 80px;
+  background-color: #fff;
+  border-right: 1px solid #dadada;
+  border-left: 1px solid #dadada;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 15px;
+}
+.sort-labels2 {
+  height: 38px;
+  width: 69px;
+}
+.sort-options {
+  border-radius: 5px;
+  border: 1px solid #dadada;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.icon11,
+.view {
+  position: relative;
+}
+.view {
+  line-height: 22px;
+  display: inline-block;
+  min-width: 34px;
+}
+.icon11 {
+  height: 16px;
+  width: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon-wrapper {
+  width: 48px;
+  background-color: #f1f1f1;
+  border-right: 1px solid #dadada;
+  border-left: 1px solid #dadada;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 11px 15px;
+}
+.icon-container,
+.icon-wrapper,
+.icon12 {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon12 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+}
+.icon-container {
+  width: 48px;
+  background-color: #fff;
+  border-right: 1px solid #dadada;
+  border-left: 1px solid #dadada;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 11px 15px;
+}
+.view-icons {
+  border-radius: 5px;
+  border: 1px solid #dadada;
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sorting,
+.view-icons,
+.view-style {
+  display: flex;
+  flex-direction: row;
+}
+.view-style {
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+  color: #fff;
+  font-family: Inter;
+}
+.sorting {
+  align-self: stretch;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 16px;
+  font-family: Roboto;
+}
+.breadcrumbs-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 31px;
+  max-width: 100%;
+  font-family: Manrope;
+}
+.image-8-icon {
+  width: 499px;
+  height: 499px;
+  position: absolute;
+  margin: 0 !important;
+  right: -74px;
+  bottom: -175px;
+  object-fit: cover;
+}
+.gift-voucher,
+.holiday {
+  margin: 0;
+}
+.holiday-gift-voucher-container {
+  margin: 0;
+  width: 197px;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.holiday-gift-voucher-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 1px;
+}
+.peru,
+.product-titles {
+  position: relative;
+  line-height: 36px;
+  display: inline-block;
+  z-index: 1;
+}
+.peru {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  min-width: 87px;
+}
+.product-titles {
+  text-align: left;
+  min-width: 75px;
+  white-space: nowrap;
+}
+.peru-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.card-design-holiday,
+.card-design17 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.card-design-holiday {
+  flex: 1;
+  border-radius: 8px;
+  background-color: #8b511c;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 96px 23px 15px 21px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 45px;
+}
+.card-design17 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.holiday-giftcard {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.text15 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.usd-2004 {
+  position: relative;
+  line-height: 22px;
+  color: #1c1c1c;
+  display: inline-block;
+  min-width: 118px;
+}
+.product25,
+.text-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text-parent1 {
+  width: 200px;
+  gap: 12px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Roboto;
+}
+.product25 {
+  width: 402px;
+  margin: 0 !important;
+  position: absolute;
+  top: 417px;
+  left: 852px;
+  gap: 24px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 32px;
+  font-family: "Kumbh Sans";
+}
+.card-design-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.puma-giftcard2 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.text16 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.usd-2005 {
+  position: relative;
+  line-height: 22px;
+  color: #1c1c1c;
+  display: inline-block;
+  min-width: 118px;
+}
+.product26,
+.text-parent2 {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.product26 {
+  height: 344px;
+  width: 402px;
+  margin: 0 !important;
+  position: absolute;
+  top: 834px;
+  left: 0;
+  gap: 24px;
+  color: #000;
+  font-family: Roboto;
+}
+.wrapper-vector-1-item {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.058);
+}
+.wrapper-vector-11 {
+  height: 172.7px;
+  width: 389px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -109.7px;
+  left: -103px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+}
+.mask-group-icon5 {
+  height: 45px;
+  width: 184px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.wrapper-vector-1-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.usd-100-100012 {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 18px;
+  text-transform: uppercase;
+  z-index: 1;
+}
+.card-design18,
+.title-containers {
+  display: flex;
+  justify-content: flex-start;
+}
+.title-containers {
+  width: 184px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 26px 0 27px;
+  box-sizing: border-box;
+}
+.card-design18 {
+  align-self: stretch;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #5b2885, #00a5c8);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 109px 20px 69px;
+  gap: 23px;
+}
+.playstation-giftcard {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.text17 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.usd-2006 {
+  position: relative;
+  line-height: 22px;
+  color: #1c1c1c;
+  display: inline-block;
+  min-width: 118px;
+}
+.product27,
+.text-parent3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text-parent3 {
+  width: 200px;
+  gap: 12px;
+  font-size: 16px;
+  color: #000;
+  font-family: Roboto;
+}
+.product27 {
+  width: 402px;
+  margin: 0 !important;
+  position: absolute;
+  top: 1251px;
+  left: 426px;
+  gap: 24px;
+  font-size: 12px;
+}
+.b9,
+.wrapper-vector-1-inner {
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.b9 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 42px;
+  white-space: nowrap;
+}
+.wrapper-vector-1-inner {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.045);
+}
+.wrapper-vector-12 {
+  margin-left: -368.2px;
+  width: 481.2px;
+  height: 222.4px;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 448091;
+  max-width: 1146%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.pngwing-1-icon7 {
+  width: 178px;
+  height: 53px;
+  position: absolute;
+  margin: 0 !important;
+  top: 105px;
+  left: calc(50% - 89px);
+  object-fit: contain;
+  z-index: 1;
+}
+.card-design-spotify1,
+.card-design19 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.card-design-spotify1 {
+  height: 264px;
+  width: 402px;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #0a4050, #1a6a47);
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 24px 24px 218px 336px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 40.3px;
+}
+.card-design19 {
+  flex-direction: row;
+}
+.spotify-giftcard1 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.text18 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.usd-2007 {
+  position: relative;
+  line-height: 22px;
+  color: #1c1c1c;
+  display: inline-block;
+  min-width: 118px;
+}
+.product28,
+.text-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text-parent4 {
+  width: 200px;
+  gap: 12px;
+  font-size: 16px;
+  color: #000;
+  font-family: Roboto;
+}
+.product28 {
+  margin: 0 !important;
+  position: absolute;
+  top: 1251px;
+  left: 852px;
+  gap: 24px;
+  max-width: 100%;
+  font-size: 24px;
+  font-family: "Kumbh Sans";
+}
+.image-placeholder {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 37px;
+  white-space: nowrap;
+}
+.mask-group-icon6 {
+  align-self: stretch;
+  height: 32px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.image-mask,
+.image-mask-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-mask {
+  align-self: stretch;
+  gap: 162px;
+}
+.image-mask-wrapper {
+  width: 97px;
+  padding: 24px 0 0;
+  box-sizing: border-box;
+  min-width: 97px;
+  flex-shrink: 0;
+}
+.card-design-ubereats-child {
+  height: 264px;
+  width: 201.6px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+.card-design-ubereats1 {
+  width: 402px;
+  border-radius: 8px;
+  background-color: #7dc243;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 0 24px;
+  box-sizing: border-box;
+  gap: 80.6px;
+}
+.card-design-ubereats1,
+.card-design20 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.uber-eats-giftcard1 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.text19 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.usd-2008 {
+  position: relative;
+  line-height: 22px;
+  color: #1c1c1c;
+  display: inline-block;
+  min-width: 118px;
+}
+.product-cards1,
+.product29,
+.text-parent5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text-parent5 {
+  width: 200px;
+  flex-direction: column;
+  gap: 12px;
+  color: #000;
+  font-family: Roboto;
+}
+.product-cards1,
+.product29 {
+  max-width: 100%;
+}
+.product29 {
+  margin: 0 !important;
+  position: absolute;
+  top: 1668px;
+  left: 852px;
+  flex-direction: column;
+  gap: 24px;
+  font-family: "Open Sans";
+}
+.product-cards1 {
+  align-self: stretch;
+  height: 2012px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  gap: 73px 22px;
+  font-size: 16px;
+  color: #fff;
+}
+.load-more {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 71px;
+}
+.load-more-button {
+  align-self: stretch;
+  border: 1px solid #cacaca;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 10px 20px 9px;
+  text-align: center;
+  font-size: 14px;
+  color: #707070;
+}
+.product-browser {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+  min-width: 815px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: Inter;
+}
+@media screen and (max-width: 1050px) {
+  .all-products {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .holiday-gift-voucher-container,
+  .peru,
+  .product-titles {
+    font-size: 26px;
+    line-height: 29px;
+  }
+  .product-browser {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 750px) {
+  .sorting {
+    flex-wrap: wrap;
+  }
+  .breadcrumbs-container {
+    gap: 15px;
+  }
+  .product-browser {
+    gap: 18px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .all-products {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .holiday-gift-voucher-container,
+  .peru,
+  .product-titles {
+    font-size: 19px;
+    line-height: 22px;
+  }
+  .peru-parent {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .b9 {
+    font-size: 19px;
+    line-height: 18px;
+  }
+  .card-design-ubereats-child,
+  .image-mask-wrapper {
+    flex: 1;
+  }
+  .card-design-ubereats1 {
+    flex-wrap: wrap;
+  }
+  .product-cards1 {
+    height: auto;
+    min-height: 2012;
+  }
+}

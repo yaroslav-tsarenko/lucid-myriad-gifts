@@ -1,0 +1,20 @@
+.content1,
+.signinpage {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.content1 {
+  align-self: stretch;
+  align-items: flex-end;
+  max-width: 100%;
+}
+.signinpage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
